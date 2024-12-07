@@ -1,3 +1,3 @@
 # Library-Search-and-Recommendation-System
-This is a library search and recommendation system where users can input book tittles, genre and authors and use it to later search the data they added in. This was done to work on the data structure topics I learned and to also as a refresher on trees
+This is a library search and recommendation system where users can input book tittles, genre and authors and use it to later search the data they added in. This was done to work on the data structure topics I learned and to also as a refresher on trees.
 Binary Tree Search and Recommendation System: A C++ program implementing a binary tree to manage a library of books. Features include adding books, searching by title/author, recommending books by genre, and displaying all books. The project focuses on binary tree operations, tree traversal, dynamic memory management, and user interaction with test cases to showcase functionality.
